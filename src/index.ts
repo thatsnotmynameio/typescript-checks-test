@@ -1,3 +1,4 @@
+// Adds and waits.
 import ms from "ms";
 
 export function add(a: number, b: number): number {
