@@ -1,0 +1,7 @@
+{
+  "src/any.ts": {
+    "typescript/no-explicit-any": {
+      "count": 2
+    }
+  }
+}
