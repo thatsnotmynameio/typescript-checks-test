@@ -1,0 +1,3 @@
+exotic-dependencies:
+  - tarball: https://codeload.github.com/jonschlinkert/is-odd/tar.gz/a80ee0d831a8ee69f1fad5b4673491847975eb26
+    integrity: sha512-pXJHCg2xS2HlzHOpRWqFqkW4mvL/H+OylsfLIixcJ8J3ZSVfqSJgwGi/Nrkd3Q++v9keeo5AvnCrI3UpnV7vkg==
