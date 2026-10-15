@@ -7,3 +7,4 @@ export function add(a: number, b: number): number {
 export function wait(text: string): number {
   return ms(text as ms.StringValue);
 }
+export * from "./odd.js";
