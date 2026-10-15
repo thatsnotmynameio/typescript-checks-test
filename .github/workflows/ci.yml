@@ -9,7 +9,7 @@ permissions: {}
 
 jobs:
   typescript:
-    uses: thatsnotmynameio/github-actions/.github/workflows/typescript.yml@97b2b8247fd20c836d6ca2dce7bcda24bf068635 # worktree-typescript
+    uses: thatsnotmynameio/github-actions/.github/workflows/typescript.yml@e66ca2293b3c3958f2995845941ce71ac713b590 # worktree-typescript
     permissions:
       contents: read
       security-events: write
