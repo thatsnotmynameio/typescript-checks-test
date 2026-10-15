@@ -12,7 +12,7 @@
     "@types/ms": "^2.1.0",
     "@types/node": "^24",
     "@vitest/coverage-v8": "^5.0.3",
-    "is-odd": "^3.0.1",
+    "is-odd": "github:jonschlinkert/is-odd#a80ee0d831a8ee69f1fad5b4673491847975eb26",
     "typescript": "^7.0.2",
     "vitest": "^5.0.3"
   }
