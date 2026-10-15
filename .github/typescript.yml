@@ -1,1 +1,6 @@
 coverage: 90
+trunk:
+  - collection: AbC12345
+    vitest: [test/index.test.ts]
+  - collection: XyZ98765
+    vitest: [--exclude=test/index.test.ts]
