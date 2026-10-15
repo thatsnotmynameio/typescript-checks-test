@@ -1,0 +1,15 @@
+# Calls the TypeScript checks of thatsnotmynameio/github-actions#39 on each
+# pull request, as a scratch run before the ruleset requires them.
+name: ci
+
+on:
+  pull_request:
+
+permissions: {}
+
+jobs:
+  typescript:
+    uses: thatsnotmynameio/github-actions/.github/workflows/typescript.yml@97b2b8247fd20c836d6ca2dce7bcda24bf068635 # worktree-typescript
+    permissions:
+      contents: read
+      security-events: write
